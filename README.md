@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/serrgiicamps" target="blank"><img src="https://img.shields.io/twitter/follow/serrgiicamps?logo=twitter&style=for-the-badge" alt="serrgiicamps" /></a> </p>
 
-- 🔭 I’m currently working on **Mastermind Java Project**
+- 🔭 I’m currently working on **Mastermind Java School Project**
 
-- 🌱 I’m currently learning **Java, courses.**
+- 🌱 I’m currently learning **Java, Python, Ethical hacking courses.**
 
-- 📫 How to reach me **sergicampsgili@gmail.com**
+- 📫 How to reach me : **sergicampsgili@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
