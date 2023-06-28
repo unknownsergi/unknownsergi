@@ -4,9 +4,9 @@
 
 <p align="left"> <a href="https://twitter.com/serrgiicamps" target="blank"><img src="https://img.shields.io/twitter/follow/serrgiicamps?logo=twitter&style=for-the-badge" alt="serrgiicamps" /></a> </p>
 
-- 🔭 I’m currently working on **Mastermind Java School Project**, Searching projects to contribute at.
+- 🔭 I’m currently working on **2TEC**, Searching projects to contribute at.
 
-- 🌱 I’m currently learning **Java, Python, C++, Ethical hacking courses.**
+- 🌱 I’m currently learning **Loading...**
 
 - 📫 How to reach me : **sergicampsgili@gmail.com**
 
