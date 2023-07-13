@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **2TEC**, Searching projects to contribute at.
 
-- 🌱 I’m currently learning **Loading...**
+- 🌱 I’m currently learning **C++**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
