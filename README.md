@@ -4,9 +4,9 @@
 
 <p align="left"> <a href="https://twitter.com/serrgiicamps" target="blank"><img src="https://img.shields.io/twitter/follow/serrgiicamps?logo=twitter&style=for-the-badge" alt="serrgiicamps" /></a> </p>
 
-- 🔭 I’m currently working on **2TEC**, Searching projects to contribute at.
+- 🔭 I’m currently working on a **Private Project**.
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **C++** in my free time.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
