@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sergi</h1>
 <h3 align="center">A passionate delevoper and student from Spain</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=devsergi&label=Profile%20views&color=0e75b6&style=flat" alt="devsergi" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=flamecantcode&label=Profile%20views&color=0e75b6&style=flat" alt="flamecantcode" /> </p>
 
 <p align="left"> <a href="https://twitter.com/serrgiicamps" target="blank"><img src="https://img.shields.io/twitter/follow/serrgiicamps?logo=twitter&style=for-the-badge" alt="serrgiicamps" /></a> </p>
 
