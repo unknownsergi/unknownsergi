@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sergi</h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=devsergi&label=Profile%20views&color=0e75b6&style=flat" alt="flamecantcode" /> </p>
 
-<div align="center">- 🔭 I’m currently working on a **Private Project**.</div><br>
+<p align="center">- 🔭 I’m currently working on a Private Project.</p>
 
-<div align="center">- 🌱 I’m currently learning **C++** in my free time.</div>
+<p align="center">- 🌱 I’m currently learning C++ in my free time.</p><br>
 
 <p align="center">
 </p>
