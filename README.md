@@ -1,8 +1,7 @@
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=devsergi&label=Profile%20views&color=0e75b6&style=flat" alt="flamecantcode" /> </p>
+<p align="center"><img align="center" src="https://avatars.githubusercontent.com/u/67187843?v=4"></p>
+
 <h1 align="center">Hi 👋, I'm Sergi</h1>
-<h3 align="center">A passionate delevoper and student from Spain</h3>
-
-
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=devsergi&label=Profile%20views&color=0e75b6&style=flat" alt="flamecantcode" /> </p>
 
 <div align="center">- 🔭 I’m currently working on a **Private Project**.</div><br>
 
