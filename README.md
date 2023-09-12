@@ -1,5 +1,3 @@
-<p align="center"><img align="center" src="https://avatars.githubusercontent.com/u/67187843?v=4"></p>
-
 <h1 align="center">Hi 👋, I'm Sergi</h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=devsergi&label=Profile%20views&color=0e75b6&style=flat" alt="flamecantcode" /> </p>
 
