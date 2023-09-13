@@ -3,12 +3,11 @@
 
 <p align="center">- 🔭 I’m currently working on a Private Project.</p>
 
-<p align="center">- 🌱 I’m currently learning C++ in my free time.</p><br>
+<p align="center">- 🌱 I’m currently learning C++ in my free time.</p>
 
 <p align="center">
 </p>
 
-  
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=flamecantcode&show_icons=true&locale=en&layout=compact" alt="flamecantcode" /></p>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=flamecantcode&show_icons=true&locale=en" alt="flamecantcode" /></p>
