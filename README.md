@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sergi</h1>
+<h1 align="center">Hi 💻, I'm Sergi</h1>
 <h3 align="center">A passionate developer from the Mediterranean.</h3>
 <div align="center"><img src="https://komarev.com/ghpvc/?username=devsergi&label=Profile%20views&color=0e75b6&style=flat" alt="flamecantcode" /></div>
 <p align="center" >Connect with me:</p>
